@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @celalcok
-- 👀 I’m interested in frontend
+- 👀 I’m interested in frontend and backend
   <h2>My Favorite Tools</h2>
   <table>
     <tr>
