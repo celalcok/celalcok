@@ -49,16 +49,6 @@
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/69fa8ed185f6026de241b4a3eb05855be4660cbc2d36f01b9e9b64e32e0472da/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/69fa8ed185f6026de241b4a3eb05855be4660cbc2d36f01b9e9b64e32e0472da/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/mysql-icon.svg" style="max-width: 100%;"></a>
       <br>MySQL
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://camo.githubusercontent.com/52ec9548f75773e7841dd77f89a654e8a0bc2cce02da2eb43f84240f50351512/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%;">
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ca8676621360fbaf31b9aca54d45d5e19e1695ca8247bbb216eaeb81ea05cd85/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667"><img src="https://camo.githubusercontent.com/ca8676621360fbaf31b9aca54d45d5e19e1695ca8247bbb216eaeb81ea05cd85/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/csharp-icon.svg" style="max-width: 100%;"></a>
-      <br>C#
-    </td>
       <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c13b98c833933f68c7824fd047855dc5059276cb0ee54a743afe7a714bd23921/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c61726176656c"><img src="https://camo.githubusercontent.com/c13b98c833933f68c7824fd047855dc5059276cb0ee54a743afe7a714bd23921/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c61726176656c" width="48" height="48" alt="Laravel" data-canonical-src="https://skillicons.dev/icons?i=laravel" style="max-width: 100%;"></a>
       <br>Laravel
@@ -83,6 +73,16 @@
               <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/879e035de5515b8a913361f4b3c84927540232993db8fbd906bdc1f81f98c19d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d776f72647072657373"><img src="https://camo.githubusercontent.com/879e035de5515b8a913361f4b3c84927540232993db8fbd906bdc1f81f98c19d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d776f72647072657373" width="48" height="48" alt="WordPress" data-canonical-src="https://skillicons.dev/icons?i=wordpress" style="max-width: 100%;"></a>
       <br>WordPress
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://camo.githubusercontent.com/52ec9548f75773e7841dd77f89a654e8a0bc2cce02da2eb43f84240f50351512/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%;">
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ca8676621360fbaf31b9aca54d45d5e19e1695ca8247bbb216eaeb81ea05cd85/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667"><img src="https://camo.githubusercontent.com/ca8676621360fbaf31b9aca54d45d5e19e1695ca8247bbb216eaeb81ea05cd85/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/csharp-icon.svg" style="max-width: 100%;"></a>
+      <br>C#
     </td>
   </tr>  
   </table>
